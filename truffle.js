@@ -8,7 +8,7 @@ module.exports = {
     coverage: {
       host: "localhost",
       network_id: "*",
-      port: 8555
+      port: 8565
     }
   },
   mocha: {
